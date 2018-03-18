@@ -1,0 +1,85 @@
+    *{
+      box-sizing: border-box;
+      text-align: center;
+      background-color: #232323;
+      color: white;
+    }
+
+    h1{
+      font-weight: 200;
+      
+    }
+
+    input[placeholder]{
+      text-align:left;
+    }
+
+    .container{
+      display: block;
+      border: 2px solid white;
+      margin-top: 20%;
+      padding-bottom: 25px;
+      display: none;
+      font-weight: 200;
+    }
+
+    #username{
+      width:75%;
+      vertical-align: middle;
+    }
+
+    .btn{
+        background-color: #232323;
+        box-shadow: none;
+        border: 2px solid white;
+        display: inline;
+    }
+
+    i:hover{
+      background-color: #232323;
+    }
+
+    .large{
+      float: right;
+      margin-left: 5px;
+    }
+
+    .container-2{
+      width: 50%;
+      margin: 0 auto;
+      font-size: 25px;
+      font-weight: 200;
+    }
+
+    .output{
+      text-align: center;
+      border-left: 2.3px solid white;
+      margin-left: 5px;
+      margin-bottom: 15px;
+      display: none;
+    }
+
+    img{
+      margin: 0 auto;
+      border-radius: 50%;
+      visibility: hidden;
+      display: none;
+      border: none;
+      outline: none;
+    }
+
+    .middle{  
+      bottom: 100;
+      left: 0;
+      right: 0;
+      width: 75%;
+      margin: 0 auto;
+      margin-top: 4%;
+      display: none;
+    }
+
+    .bkbtn{
+      display: none;
+      margin-bottom: 20px;
+      padding: 8px 15px;
+    }
